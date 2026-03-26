@@ -43,7 +43,7 @@ Como entusiasta del **Blue Team**, siempre intento analizar los logs que dejarí
 Si ves que mi metodología puede mejorar o quieres discutir un vector de ataque alternativo, ¡estaré encantado de charlar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marclperarnau) 
-[![TheHackerLabs](https://img.shields.io/badge/TheHackerLabs-Profile-orange?style=for-the-badge)](https://thehackerlabs.com/profile/mperarnau)
+[![TheHackerLabs](https://img.shields.io/badge/TheHackerLabs-Profile-orange?style=for-the-badge)](https://labs.thehackerslabs.com/hacker/1378)
 
 ---
 <p align="center">
