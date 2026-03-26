@@ -20,11 +20,16 @@ Este repositorio contiene mi documentación detallada y guías paso a paso (*wri
 
 ## 📂 Índice de Máquinas y Retos
 
-| Lab / Máquina | Operación | Dificultad | SO | Vector Principal | Writeup |
+| Lab / Máquina | Operación | Dificultad | SO | Writeup |
 | :--- | :--- | :---: | :---: | :--- | :---: |
-| **[Nombre_Lab]** | 🔴 **Red Team** | 🟢 Fácil | 🐧 Linux | SQL Injection (Auth Bypass) | [Leer 📄](./writeups/lab1.md) |
-| **[Nombre_Lab]** | 🔵 **Blue Team** | 🟡 Media | 🌐 Web | Análisis de Logs & Forense | [Leer 📄](./writeups/lab2.md) |
-| **[Nombre_Lab]** | 🔍 **OSINT** | 🟢 Fácil | 🌎 Soc | Footprinting & Metadatos | [Leer 📄](./writeups/lab3.md) |
+| **[Avenger]** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄]() |
+| **[Bocata de Calamares]** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄]() |
+| **[TickTackRoot]** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄]() |
+| **[¡Atención extornsión!]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
+| **[Post-it]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
+| **[Arte de Jaén]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
+| **[Libros]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
+| **[DebugSleuth]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
 
 ---
 
