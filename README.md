@@ -1,46 +1,55 @@
 # 🛡️ The Hacker Labs - Writeups & Methodology
 
-### "Si no puedes explicarlo de forma sencilla, es que no lo has entendido lo suficiente"
+### "Red Team, Blue Team & OSINT: El estudiante eterno en busca de la seguridad total" 🚀
 
-Este repositorio contiene mi documentación detallada y guías paso a paso (*writeups*) para las máquinas y retos de la plataforma **The Hacker Labs**. Mi enfoque no es solo obtener la `root flag`, sino documentar el proceso de enumeración, explotación y post-explotación con una metodología profesional.
+Este repositorio contiene mi documentación detallada y guías paso a paso (*writeups*) para los retos de la plataforma **The Hacker Labs**. Mi enfoque trasciende la simple obtención de la `root flag`: documento el proceso completo aplicando metodologías profesionales de auditoría, respuesta ante incidentes e investigación de fuentes abiertas.
+
+---
+
+## 📊 Progreso de Entrenamiento
+![Red Team](https://img.shields.io/badge/Red_Team-03_Labs-red?style=for-the-badge&logo=hackthebox) 
+![Blue Team](https://img.shields.io/badge/Blue_Team-01_Labs-blue?style=for-the-badge&logo=sentinelone) 
+![OSINT](https://img.shields.io/badge/OSINT-01_Labs-orange?style=for-the-badge&logo=google-earth)
 
 ---
 
 ## 🛠️ Herramientas Utilizadas (Pentesting Toolkit)
-![Nmap](https://img.shields.io/badge/Nmap-%234D4D4D.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=for-the-badge&logo=burp-suite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%232496ED.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%234D4D4D.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=for-the-badge&logo=burp-suite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 📂 Índice de Máquinas Resueltas
+## 📂 Índice de Máquinas y Retos
 
-| Máquina | Dificultad | SO | Vulnerabilidad Principal | Writeup |
-| :--- | :---: | :---: | :--- | :---: |
-| **[Nombre_Maquina_1]** | 🟢 Fácil | 🐧 Linux | SQL Injection (Auth Bypass) | [Leer 📄](./writeups/maquina1.md) |
-| **[Nombre_Maquina_2]** | 🟡 Media | 🪟 Windows | Remote Code Execution (RCE) | [Leer 📄](./writeups/maquina2.md) |
-| **[Nombre_Maquina_3]** | 🔴 Difícil | 🐧 Linux | Privilege Escalation (Sudoers) | [Leer 📄](./writeups/maquina3.md) |
+| Lab / Máquina | Operación | Dificultad | SO | Vector Principal | Writeup |
+| :--- | :--- | :---: | :---: | :--- | :---: |
+| **[Nombre_Lab]** | 🔴 **Red Team** | 🟢 Fácil | 🐧 Linux | SQL Injection (Auth Bypass) | [Leer 📄](./writeups/lab1.md) |
+| **[Nombre_Lab]** | 🔵 **Blue Team** | 🟡 Media | 🌐 Web | Análisis de Logs & Forense | [Leer 📄](./writeups/lab2.md) |
+| **[Nombre_Lab]** | 🔍 **OSINT** | 🟢 Fácil | 🌎 Soc | Footprinting & Metadatos | [Leer 📄](./writeups/lab3.md) |
 
 ---
 
 ## 🚀 Metodología de Trabajo
-En cada writeup sigo el estándar de un reporte de auditoría real:
 
-1.  **Reconocimiento:** Escaneo de puertos y servicios con `Nmap`.
-2.  **Enumeración:** Análisis profundo de vectores de ataque (Web, SMB, SSH, etc.).
-3.  **Explotación:** Acceso inicial mediante vulnerabilidades identificadas.
-4.  **Post-Explotación:** Enumeración interna y escalada de privilegios.
-5.  **Mitigación (Blue Team):** Notas sobre cómo parchear la vulnerabilidad encontrada.
+### 🔴 Red Team (Ofensivo)
+Sigo el estándar **PTES**: Enumeración exhaustiva, explotación de vulnerabilidades y escalada de privilegios técnica.
+
+### 🔵 Blue Team (Defensivo)
+Me enfoco en el **Análisis de Artefactos** y **Mitigación**: Identifico la brecha y propongo notas de *hardening* para parchear el sistema.
+
+### 🔍 OSINT (Investigación)
+Recolección de inteligencia de fuentes abiertas, conectando puntos de datos para descubrir infraestructuras o fugas de información.
 
 ---
 
 ## 🛡️ Mi Enfoque (Estudiante Eterno)
-Como entusiasta del **Blue Team**, siempre intento analizar los logs que dejaría mi ataque. Mi objetivo es transicionar de "entender cómo entrar" a "saber cómo detectar y detener" al atacante. 
+Como entusiasta del **Blue Team**, siempre analizo los logs y huellas que deja un ataque. Mi objetivo es transicionar de "saber cómo entrar" a "saber cómo detectar, detener y prevenir" al atacante. 
 
-> **Aviso Legal:** El contenido de este repositorio tiene fines puramente educativos y éticos. No me hago responsable del mal uso de la información aquí contenida.
+> **Aviso Legal:** El contenido de este repositorio tiene fines puramente educativos. No me hago responsable del mal uso de la información aquí contenida. **Hack responsibly.** 🛡️
 
 ---
 
 ## 🤝 Contacto y Colaboración
-Si ves que mi metodología puede mejorar o quieres discutir un vector de ataque alternativo, ¡estaré encantado de charlar!
+Si quieres discutir un vector de ataque alternativo o mejorar una mitigación, ¡hablemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marclperarnau) 
 [![TheHackerLabs](https://img.shields.io/badge/TheHackerLabs-Profile-orange?style=for-the-badge)](https://labs.thehackerslabs.com/hacker/1378)
