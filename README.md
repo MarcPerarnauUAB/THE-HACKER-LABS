@@ -21,15 +21,15 @@ Este repositorio contiene mi documentación detallada y guías paso a paso (*wri
 ## 📂 Índice de Máquinas y Retos
 
 | Lab / Máquina | Operación | Dificultad | SO | Writeup |
-| :--- | :--- | :---: | :---: | :--- | :---: |
-| **[Avenger]** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄]() |
-| **[Bocata de Calamares]** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄]() |
-| **[TickTackRoot]** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄]() |
-| **[¡Atención extornsión!]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
-| **[Post-it]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
-| **[Arte de Jaén]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
-| **[Libros]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
-| **[DebugSleuth]** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄]() |
+| :--- | :--- | :---: | :---: | :---: |
+| **Avenger** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄](./ruta/avenger.md) |
+| **Bocata de Calamares** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄](./ruta/bocata.md) |
+| **TickTackRoot** | 🔴 **Red Team** | 🟢 Principiante | 🐧 Linux | [Leer 📄](./ruta/ticktackroot.md) |
+| **¡Atención extornsión!** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄](./ruta/extorsion.md) |
+| **Post-it** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄](./ruta/postit.md) |
+| **Arte de Jaén** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄](./ruta/jaen.md) |
+| **Libros** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄](./ruta/libros.md) |
+| **DebugSleuth** | 🔍 **Osint** | 🟢 Principiante | 🌎 Soc | [Leer 📄](./ruta/debugsleuth.md) |
 
 ---
 
