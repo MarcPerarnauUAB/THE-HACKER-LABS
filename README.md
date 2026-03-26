@@ -9,7 +9,7 @@ Este repositorio contiene mi documentación detallada y guías paso a paso (*wri
 ## 📊 Progreso de Entrenamiento
 ![Red Team](https://img.shields.io/badge/Red_Team-03_Labs-red?style=for-the-badge&logo=hackthebox) 
 ![Blue Team](https://img.shields.io/badge/Blue_Team-01_Labs-blue?style=for-the-badge&logo=sentinelone) 
-![OSINT](https://img.shields.io/badge/OSINT-01_Labs-orange?style=for-the-badge&logo=google-earth)
+![OSINT](https://img.shields.io/badge/OSINT-05_Labs-orange?style=for-the-badge&logo=google-earth)
 
 ---
 
