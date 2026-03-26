@@ -26,9 +26,12 @@ En la captura de pantalla adjunta se encuentra la dirección de la billetera inv
 ---
 
 ## 🎯 Objetivos
-- [ ] Hallar el nombre real del sospechoso.
-- [ ] Localizar la ubicación exacta de la fotografía.
-- [ ] Encontrar la flag final.
+- [X] ¿Cuál fue la cantidad exacta transferida?
+- [X] ¿Cuál fue la dirección de envío?
+- [X] ¿Cuál fue la dirección de recepción?
+- [X] ¿Qué plataforma fue utilizada para la operación?
+- [X] ¿En qué fecha y hora se realizó la operación?
+- [X] ¿Cuál es el hash de la transacción?
 
 ---
 
