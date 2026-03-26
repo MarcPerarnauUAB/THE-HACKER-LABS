@@ -1,8 +1,8 @@
-# 🔍 Writeup OSINT: [Nombre del Reto]
+# 🔍 Writeup OSINT: !Atención extorsión¡
 
 **Plataforma:** [The Hacker Labs](https://labs.thehackerslabs.com/)
 **Dificultad:** 🟢 Principiante
-**Categoría:** OSINT / Geolocalización / SOCMINT
+**Categoría:** OSINT
 
 ---
 
